@@ -1,7 +1,7 @@
 module.exports = {
     app: {
-        token: 'XXX',
-        playing: 'by Zerio ❤️',
+        token: 'MTEwMTk5OTAxNjM1MjQyODAzMg.GzsSTm.r7fwx5TBPF09Q5PKqbv9O7fH4qGdIZSSkFOKmo',
+        playing: 'Sus',
         global: true,
         guild: 'XXX'
     },
@@ -9,14 +9,14 @@ module.exports = {
     opt: {
         DJ: {
             enabled: false,
-            roleName: '',
+            roleName: 'BOT',
             commands: []
         },
-        maxVol: 100,
+        maxVol: 200,
         leaveOnEnd: true,
         loopMessage: false,
         spotifyBridge: true,
-        defaultvolume: 75,
+        defaultvolume: 100,
         discordPlayer: {
             ytdlOptions: {
                 quality: 'highestaudio',
